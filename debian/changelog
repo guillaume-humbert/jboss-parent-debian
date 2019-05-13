@@ -1,3 +1,9 @@
+jboss-parent-pom (35-1ubuntu1) bionic; urgency=medium
+
+  * Release for upstream version 35.
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Mon, 13 May 2019 20:58:43 +0800
+
 jboss-parent-pom (20-1) bionic; urgency=medium
 
   * Initial release.
